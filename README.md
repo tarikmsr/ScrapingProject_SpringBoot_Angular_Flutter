@@ -1,4 +1,11 @@
 # ScrapingProject_SpringBoot_Angular_Flutter
+
+Réalisation d’une Application Web distribuée basée sur l’architecture micro-services en utilisant Spring boot pour Backend , Angular et Flutter pour Frontend, MongoDB pour stoquer les donnees.
+
+
+# Annex
+https://github.com/NOTamineRB/Location-de-biens-immobiliers-Tanger-mubawab.ma
+
 # Annex
 https://www.youtube.com/watch?v=pXtPyv5XS3o
 
