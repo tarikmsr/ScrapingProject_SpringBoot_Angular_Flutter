@@ -4,9 +4,6 @@ Réalisation d’une Application Web distribuée basée sur l’architecture mic
 
 
 # Annex
-https://github.com/NOTamineRB/Location-de-biens-immobiliers-Tanger-mubawab.ma
-
-# Annex
 https://www.youtube.com/watch?v=pXtPyv5XS3o
 
 # Methodologie
