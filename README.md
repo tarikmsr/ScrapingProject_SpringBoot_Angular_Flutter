@@ -4,9 +4,7 @@ Réalisation d’une Application Web distribuée basée sur l’architecture mic
 
 
 
-# Demo
-
-## Demo Video
+# Demo Video
 [Watch the demo video](https://www.youtube.com/watch?v=pXtPyv5XS3o)
 
 # Annex
